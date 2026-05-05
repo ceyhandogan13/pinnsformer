@@ -1,0 +1,29 @@
+# Reports (excluded from repo)
+report1/
+report1_ieee/
+report2_ieee/
+report_template/
+
+# External cloned repo (clone separately)
+pinnsformer/
+
+# Generated PDFs and LaTeX artifacts
+*.pdf
+*.tex
+*.log
+*.aux
+*.bbl
+*.blg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Misc
+*.DS_Store
+.env
